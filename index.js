@@ -1,5 +1,5 @@
 //const Person = require("./person");
-import {Person} from "./person.js";
+const Person = require("./person.js");
 
 const person1 = new Person("Nikos", 34);
 
