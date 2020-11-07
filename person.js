@@ -1,4 +1,4 @@
-class Person {
+export class Person {
     constructor(name, age){
         this.name = name;
         this.age = age;
@@ -12,4 +12,4 @@ class Person {
 
 //console.log(__dirname, __filename);
 
-module.exports = Person;
+//module.exports = Person;
